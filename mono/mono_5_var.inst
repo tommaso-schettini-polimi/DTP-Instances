@@ -1,0 +1,6 @@
+> instance	mono_5_var
+--stations	5
+--horizon	--
+--trains	4
+--turn_time	2
+--station data: [0, 1, 3, 4, 5]
